@@ -1,0 +1,6 @@
+[submodule "divideai-back"]
+	path = divideai-back
+	url = https://github.com/vinicbarros/divideai-back
+[submodule "divideai-front"]
+	path = divideai-front
+	url = https://github.com/vinicbarros/divideai-front
