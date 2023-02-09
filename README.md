@@ -1,3 +1,4 @@
+<div align="center"><img src="https://i.imgur.com/S9iBF0N.png"></img></div>
 <hr>
 <h1 align=center>Divide Aí</h1>
 <h3 align=center>The easiest way to share a bill with your friends!</h3>
